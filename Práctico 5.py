@@ -19,6 +19,7 @@ while(True):
     tecla = cv2.waitKey(20)
     if tecla == ord('g'):
         print('x1:', x1, 'x2:', x2, 'y1:', y1, 'y2:', y2)
+        img = cv2.imread('La libertad guiando al pueblo.jpg', cv2.IMREAD_COLOR)
         if (y2 >= y1) & (x2 >= x1):
             crop_img = img[y1:y2, x1:x2]
         elif (y2 >= y1) & (x2 < x1):
