@@ -1,3 +1,4 @@
+#Práctico 8 - Transformación afín: Se selecciona 3 puntos en la ventana emergente que muestra una imagen. Una vez seleccionados, aparece en otra ventana una imagen superpuesta a la original en la posición que se indicó con los tres puntos
 import cv2
 import numpy as np
 
