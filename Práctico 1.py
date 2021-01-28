@@ -1,3 +1,5 @@
+#Práctico 1: Crear una función adivinar que permita adivinar un número generado en forma aleatoria entre 0 y 100
+
 def adivinar(intentos):
     contador = 0
     import random
