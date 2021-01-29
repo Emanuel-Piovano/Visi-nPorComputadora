@@ -1,3 +1,8 @@
+#Práctico 5: Usando como base el programa anterior, crear un programa que permita seleccionar un rectángulo de una imagen.
+# Con la letra “g” lo guardamos a disco en una nueva imagen y salimos.
+# Con la letra “r” restauramos la imagen original y volvemos a realizar la selección.
+# Con la “q” salimos.
+
 import cv2
 
 img = cv2.imread('La libertad guiando al pueblo.jpg', cv2.IMREAD_COLOR)

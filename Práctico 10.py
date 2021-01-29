@@ -1,6 +1,7 @@
 #Práctico 10: Medición de objetos
 #Se debe cargar una imagen de un plano en donde hay diferentes objetos a medir.
-#El rectángulo rojo (papel glace) tiene un tamaño de 10cm por 10cm. Se pide hacer un programa que en forma automática usando solo las medidas conocidas sea capaz de medir algunas de las cosas siguientes:
+#El rectángulo rojo (papel glace) tiene un tamaño de 10cm por 10cm.
+# Se pide hacer un programa que en forma automática usando solo las medidas conocidas sea capaz de medir algunas de las siguientes cosas :
 #Ancho y alto de la tarjeta,
 #Ancho y alto de la goma o
 #Radio de ambas monedas.

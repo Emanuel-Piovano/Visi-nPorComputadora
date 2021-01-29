@@ -1,4 +1,4 @@
-#Práctico 7 - Transformación de similaridad: Se puede definir mediante la consola el desplazamiento de la imagen en x e y, un ángulo de rotación y una escala para la misma
+#Práctico 7 - Transformación de similaridad: Se puede definir mediante la consola el desplazamiento de la imagen en x e y, un ángulo de rotación y una escala para la misma.
 import cv2
 
 img = cv2.imread('La libertad guiando al pueblo.jpg', cv2.IMREAD_COLOR)

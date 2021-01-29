@@ -1,3 +1,5 @@
+#Práctico 4: Obtener el ancho y alto de las imágenes capturadas usando las OpenCV. Usarlo para no tener que harcodear el frameSize del video generado.
+
 import cv2
 
 cap = cv2.VideoCapture(0)

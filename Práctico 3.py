@@ -1,3 +1,5 @@
+#Práctico 3: Obtener el frame rate o fps usando las OpenCV. Usarlo para no tener que harcodear el delay del waitKey.
+
 import cv2
 cap = cv2.VideoCapture(0)
 #Imprimimos los FPS

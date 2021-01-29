@@ -1,3 +1,5 @@
+#Práctico 2: Segmentando una imagen: Crear un programa que lea una imagen realice un binarizado de la imagen aplicando un umbral. Guarde el resultado en otra imagen.
+
 import cv2
 
 #Leemos una imagen

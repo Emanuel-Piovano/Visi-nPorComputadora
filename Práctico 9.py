@@ -1,4 +1,6 @@
-#Práctico 9 - Homografía o Transformación Perspectiva: Se selecciona 4 puntos en la ventana emergente que muestra una imagen. Una vez seleccionados, aparece otra ventana mostrando la figura recortada y derecha
+#Práctico 9 - Homografía o Transformación Perspectiva: Se selecciona 4 puntos en la ventana emergente que muestra una imagen.
+# Una vez seleccionados, aparece otra ventana mostrando la figura recortada y derecha.
+
 import cv2
 import numpy as np
 
